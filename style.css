@@ -1,0 +1,21 @@
+@font-face {
+    font-family: Roboto;
+    src: url('./fonts/Roboto-Regular.ttf');
+}
+
+
+*{
+    font-family: Roboto;
+}
+
+body{
+    margin: 0;
+}
+
+.sidebar{
+    color: #ffffff;
+
+    background-color: #e879f9;
+
+    /* cor secundária: #3b82f6 */
+}
